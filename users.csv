@@ -1,0 +1,41 @@
+login,name,company,location,email,hireable,bio,public_repos,followers,following,created_at,year,leader_strength,surname
+vczh,,null,"Seattle, WA, USA",null,FALSE,"Main contributor of @vczh-libraries  .
+
+Microsoft github account: https://github.com/ZihanChen-MSFT",12,17512,11,2011-05-07T08:30:48Z,2011,1459.333333,
+bradfitz,Brad Fitzpatrick,TAILSCALE,Seattle,brad@danga.com,FALSE,"LiveJournal, memcached, OpenID, @golang team (2010-2020).
+Currently making WireGuard & weird network tricks easier and more magical @Tailscale.",141,12107,41,2008-03-09T05:08:14Z,2008,288.2619048,Fitzpatrick
+munificent,Bob Nystrom,"GOOGLE, ON @DART-LANG","Seattle, WA",null,FALSE,"Programming language developer, ex-game developer, UI nerd, author of ""Game Programming Patterns"" and ""Crafting Interpreters"".",49,9929,144,2009-01-13T15:37:46Z,2009,68.47586207,Nystrom
+tenderlove,Aaron Patterson,SHOPIFY,Seattle,null,FALSE,💘💙💜💗💚❤💓💛💚💗,357,9447,27,2008-03-14T20:04:17Z,2008,337.3928571,Patterson
+ahmetb,Ahmet Alp Balkan,LINKEDIN,"Seattle, WA",github@ahmet.im,TRUE,Working on compute orchestration with Kubernetes at large fleets.,221,8213,34,2009-11-28T14:59:59Z,2009,234.6571429,Balkan
+koush,Koushik Dutta,CLOCKWORKMOD,"Seattle, WA",null,FALSE,,359,8211,6,2009-04-15T04:08:21Z,2009,1173,Dutta
+awslabs,Amazon Web Services - Labs,null,"Seattle, WA",null,FALSE,AWS Labs,856,7306,0,2013-01-17T19:11:21Z,2013,7306,Labs
+jtleek,Jeff L.,null,"Seattle, WA",null,FALSE,,112,7303,7,2012-03-24T18:16:43Z,2012,912.875,L.
+TheLarkInn,Sean Larkin,MICROSOFT @MICROSOFTEDGE @WEBPACK @WEBPACK-CONTRIB @ANGULAR,"Seattle, WA",selarkin@microsoft.com,TRUE,"Software Engineer @microsoft. Javascript, webpack, Typescript. @webpack core team. @angular cli core team. working on rushstack, heft, and OneDrive/SharePoint",265,6403,71,2013-01-28T17:11:47Z,2013,88.93055556,Larkin
+zpao,Paul O’Shannessy,FACEBOOK,"Seattle, WA",paul@oshannessy.com,FALSE,I do open source things at @facebook.,161,4889,24,2008-04-25T04:38:22Z,2008,195.56,O’Shannessy
+anvaka,Andrei Kashcha,null,Seattle ,anvaka@gmail.com,FALSE,I love graphs,319,4796,43,2010-03-18T15:32:45Z,2010,109,Kashcha
+mission-peace,Mission Peace,AMAZON.COM,Seattle ,null,FALSE,,10,4373,0,2014-07-20T20:19:17Z,2014,4373,Peace
+karan,Karan Goel,GOOGLECLOUDPLATFORM,Seattle,null,FALSE,Doing things!,142,4161,0,2013-01-14T04:36:13Z,2013,4161,Goel
+eugeneyan,Eugene Yan,AMAZON,Seattle,null,FALSE,"I build ML, RecSys, & LLM systems @Amzn, and write @ eugeneyan.com.",78,4102,86,2014-03-02T14:13:03Z,2014,47.14942529,Yan
+garybernhardt,Gary Bernhardt,DESTROY ALL SOFTWARE LLC,"Seattle, WA",null,FALSE,,35,3684,4,2009-01-11T05:58:23Z,2009,736.8,Bernhardt
+ottomated,,null,Seattle,null,FALSE,,86,3673,3,2017-08-30T08:43:30Z,2017,918.25,
+argyleink,Adam Argyle,GOOGLE,Seattle,argyle@google.com,FALSE,"#argyleink {
+  position: #CSS @GoogleChrome @CSSWG;
+  maker: #VisBug;
+  luv: CSS/JS/UX;
+  role: parentNode;
+}",220,3515,369,2011-10-18T00:48:04Z,2011,9.5,Argyle
+HarmJ0y,Will Schroeder,SPECTEROPS,"Seattle, WA",null,FALSE,"Researcher @SpecterOps.
+
+Coding towards chaotic good.",60,3354,4,2013-09-20T20:45:30Z,2013,670.8,Schroeder
+nolanlawson,Nolan Lawson,SALESFORCE,Seattle,nolan@nolanlawson.com,FALSE,,457,3278,40,2010-05-22T01:29:35Z,2010,79.95121951,Lawson
+brendandburns,Brendan Burns,MICROSOFT,"Seattle, WA",null,FALSE,,199,3153,1,2013-10-22T23:42:04Z,2013,1576.5,Burns
+cmuratori,Casey Muratori,"MOLLY ROCKET, INC.","Seattle, WA",null,FALSE,,18,3082,0,2014-12-16T12:05:53Z,2014,3082,Muratori
+schollz,Zack,null,"Seattle, WA",zack.scholl@gmail.com,TRUE,Software Engineer + Scientist,1080,3081,200,2014-01-31T01:31:11Z,2014,15.32835821,Zack
+aidenybai,Aiden Bai,null,portland ↝ seattle,null,TRUE,on the search for capybaras ʕ•ᴥ•ʔ,149,2737,32,2018-04-03T03:08:03Z,2018,82.93939394,Bai
+colinhacks,Colin McDonnell,BUN,"Seattle, WA",colinmcd94@gmail.com,FALSE,I have come here to chew bubblegum and write code. And _InsufficientBubblegumException_,142,2734,44,2012-12-19T22:40:13Z,2012,60.75555556,McDonnell
+juliemr,Julie Ralph,GOOGLE,"Seattle, WA",null,FALSE,,48,2685,2,2012-08-02T05:43:51Z,2012,895,Ralph
+hyperb1iss,Stefanie Jane,MASON,"Seattle, WA",null,TRUE,"Light, Sound, and Android 🌠",28,2587,61,2009-07-06T14:26:47Z,2009,41.72580645,Jane
+DanielRosenwasser,Daniel Rosenwasser,MICROSOFT,"Seattle, WA",null,FALSE,Principal Product Manager of TypeScript,173,2280,18,2011-08-11T02:09:39Z,2011,120,Rosenwasser
+nex3,Natalie Weizenbaum,GOOGLE,Seattle,nex342@gmail.com,FALSE,Lead designer and developer of @sass. Jewish. Antizionist.,156,2241,0,2008-02-11T22:53:32Z,2008,2241,Weizenbaum
+RyanCavanaugh,Ryan Cavanaugh,MICROSOFT,"Seattle, WA",null,FALSE,Development lead for the TypeScript team at Microsoft.,130,2195,0,2014-02-14T19:19:00Z,2014,2195,Cavanaugh
+kevmoo,Kevin Moore,DART-LANG @FLUTTER @GOOGLE,"Seattle, WA, USA",null,FALSE,A Product Manager at @google working on @dart-lang and @flutter web technologies,208,2193,51,2008-07-14T17:28:27Z,2008,42.17307692,Moore
